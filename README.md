@@ -1,1 +1,2 @@
-Readme document for my project
+# gitpractice
+this to practice git commands with java project
